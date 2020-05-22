@@ -7,6 +7,7 @@ SITENAME = 'Coffee With Code'
 SITEURL = ''
 
 PATH = 'content'
+THEME = 'theme'
 
 TIMEZONE = 'US/Central'
 
