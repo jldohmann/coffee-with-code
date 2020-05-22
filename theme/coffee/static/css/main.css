@@ -73,6 +73,7 @@ ul.sub-menu, ul.children { margin:0px 10px 0px 0px; }
 .entry .gallery-caption { margin:5px 10px 0px 0px; padding:0px; }
 .entry p.attachment img { margin:0px auto; }
 .sticky { border-bottom:3px dotted #C8C8C8; }
+.remove { background: none; }
 
 
 .wp_syntax { padding:5px 0px; }
