@@ -8,6 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 THEME = 'theme/coffee'
+PLUGINS = ['embed_tweet']
 
 TIMEZONE = 'US/Central'
 
